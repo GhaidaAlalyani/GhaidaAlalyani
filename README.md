@@ -1,7 +1,9 @@
+<!--
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/GhaidaAlalyani/count.svg" alt="Visitor's Count" />
 </div>
+-->
 
 <img src="https://github.com/GhaidaAlalyani/GhaidaAlalyani/blob/main/GithupBanner.png" alt="Banner of a developer sitting in front of a desk">
 
@@ -11,11 +13,10 @@
 </h1>
 
 
-### Ai student.
+### 👋 I’m a Senior AI student with expertise in Deep Learning, Machine Learning, Data Analysis, Computer Vision, and Natural Language Processing (NLP).
 
-
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💡 I enjoy knowledge sharing, collaboration, and building impactful AI projects.
+- 🚀 Passionate about driving innovation through AI, and always eager to apply my skills in real-world applications and contribute to open-source initiatives
 
 <br>
 
@@ -23,7 +24,7 @@
   <a href="Ghaidaalyani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/ghaida-alalyani-3a8613288" target="_blank">
+  <a href="www.linkedin.com/in/ghaidaalalyani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
