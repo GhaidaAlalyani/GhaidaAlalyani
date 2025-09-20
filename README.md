@@ -13,10 +13,18 @@
 </h1>
 
 
-### 👋 I’m a Senior AI student with expertise in Deep Learning, Machine Learning, Data Analysis, Computer Vision, and Natural Language Processing (NLP).
+### 🎓 Senior AI Student | 💻 Deep Learning • Machine Learning • Computer Vision • NLP
 
-- 💡 I enjoy knowledge sharing, collaboration, and building impactful AI projects.
-- 🚀 Passionate about driving innovation through AI, and always eager to apply my skills in real-world applications and contribute to open-source initiatives
+🚀 About Me
+
+I’m passionate about building AI-driven solutions that solve real-world problems. My expertise includes:
+
+- 🤖 Deep Learning (TensorFlow, PyTorch)
+- 📊 Machine Learning & Data Analysis (Scikit-learn, Pandas, NumPy)
+- 👁️ Computer Vision (OpenCV, CNNs, image recognition)
+- 🗣️ Natural Language Processing (NLP) (Transformers, LLMs, text analysis)
+
+I thrive in collaborative projects, love sharing knowledge, and aim to contribute to impactful AI initiatives.
 
 <br>
 
