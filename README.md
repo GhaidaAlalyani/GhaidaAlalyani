@@ -17,10 +17,10 @@
 
 🚀 About Me
 
-I’m passionate about building AI-driven solutions that solve real-world problems. My expertise includes:
+I’m passionate about building AI driven solutions that solve real-world problems. My expertise includes:
 
 - 🤖 Deep Learning (TensorFlow, PyTorch)
-- 📊 Machine Learning & Data Analysis (Scikit-learn, Pandas, NumPy)
+- 📊 Machine Learning & Data Analysis (Scikit learn, Pandas, NumPy)
 - 👁️ Computer Vision (OpenCV, CNNs, image recognition)
 - 🗣️ Natural Language Processing (NLP) (Transformers, LLMs, text analysis)
 
