@@ -15,8 +15,6 @@
 
 ### 🎓 Senior AI Student | 💻 Deep Learning • Machine Learning • Computer Vision • NLP
 
-🚀 About Me
-
 I’m passionate about building AI driven solutions that solve real world problems. My expertise includes:
 
 - 🤖 Deep Learning (TensorFlow, PyTorch)
